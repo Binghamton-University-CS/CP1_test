@@ -1,0 +1,14 @@
+add_movie 1 1977 Bednam John SaturdayNightFever
+add_movie 1 1990 Scorsese Martin Goodfellas
+remove_movie 2
+register_actor 22 Travolta John
+register_actor 22 Pacino Al
+register_actor 21 Gorney Karen
+join_cast 22 1
+join_cast 22 2
+join_cast 23 1
+join_cast 21 1
+cast 1
+remove_movie 1
+quit
+
