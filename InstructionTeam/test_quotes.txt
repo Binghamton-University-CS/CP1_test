@@ -1,0 +1,19 @@
+add_movie 1 1977 Bednam John "Saturday Night Fever"
+add_movie 2 1990 "Scorsese" "Martin" Goodfellas
+add_movie 3 2000 Spielberg		Steven "Schindler's List"
+add_movie 4 2022 Tarantino Quentin "Pulp Fiction"
+add_movie 5 1985 Cameron    James Aliens
+add_movie 6 2010 Coen Joel "True Grit
+add_movie 7 2005 Nolan Christopher "Inception
+add_movie 8 1993 Burton Tim "The Nightmare Before Christmas"
+register_actor 22 "John Travolta
+register_actor 23 "Jackson" "Samuel L."
+register_actor 24 "Linda""Fiorentino"
+join_cast 22 1
+join_cast 23 4
+join_cast 24 3
+cast 1
+cast 4
+cast 6
+cast 7
+quit
