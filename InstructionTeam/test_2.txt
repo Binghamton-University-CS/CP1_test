@@ -1,0 +1,22 @@
+add_movie 1 2022 SS Rajamouli RRR
+add_movie 1 2022 SS Rajamouli RRR
+add_movie abc1 2010 Cameroon James Test
+register_actor 1 Konidela Ram Charan
+registor_actor 2 Jr NTR
+register_actor 3 Bhatt Alia
+join_cast 1 1
+join_cast 12 1
+join_cast 3 1
+join_cast 2 1
+join_cast 1 2
+add_movie 2 200 Nolan Cristopher Interstellar
+join_cast 1 2
+cast 4
+cast 1
+cast 2
+remove_movie 5
+remove_movie 2
+cast 2
+add_movie 2 1990 J@ames Cameroon1 Test
+remove_movie 1
+quit
